@@ -9,9 +9,9 @@
 [Sreya Majumder](https://github.com/sreya-majumder) <br/>
 [Aurchi Roy]()
 
-## Game Features : 
+# Game Features : 
 
-Main Features :-
+## Main Features :-
 1. Snake feeding on two food types of different scores. <br/>
 2. Length of snake increases with increase in food intake. <br/>
 3. Head and tail collision ends the game. <br/> 
