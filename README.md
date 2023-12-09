@@ -1,6 +1,6 @@
 # BRACU_CSE423_Snake_Game
 
-[Contributors](#Contributors)
+[Contributors](#Contributors) <br/>
 [Game Features](#Game-Features)
 
 # Contributors : 
