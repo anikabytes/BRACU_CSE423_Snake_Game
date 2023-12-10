@@ -30,3 +30,12 @@
 |    ▶️      |      snake moves rightward      |
 |    🔽    |      snake moves downward |
 |    🔼   |      snake moves upward     |
+
+| buttons (keyboard) | features |
+| :-------: |  :-------: | 
+|    l  |      snake moves leftward   |
+|    r     |      snake moves rightward      |
+|    d   |      snake moves downward |
+|    u  |      snake moves upward     |
+|    m  |      light mode activated    |
+|    d  |      dark mode activated    |
