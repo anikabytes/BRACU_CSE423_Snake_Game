@@ -17,7 +17,16 @@
 3. Head and tail collision ends the game. <br/>
 
 ### Other Features :-
-| buttons | features |
+| buttons (on screen) | features |
 | :-------: |  :-------: | 
 |    ⏸️       |      pauses the game      |
-|    ⏯️      |      plays the game      |
+|    ⏯️      |      resumes the game      |
+|    ⬅️     |      restarts the game      |
+|    ❎     |      ends the game (window closes)     |
+
+| buttons (arrow keys) | features |
+| :-------: |  :-------: | 
+|    ◀️      |      snake moves leftward   |
+|    ▶️      |      snake moves rightward      |
+|    🔽    |      snake moves downward |
+|    🔼   |      snake moves upward     |
