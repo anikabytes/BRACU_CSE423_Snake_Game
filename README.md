@@ -12,7 +12,7 @@
 # Game Features : 
 
 ### Main Features :-
-1. Snake feeding on two food types of different scores. 
+1. Snake feeding on two food types of different scores. <br/>
 | food type | score |
 | :-------: |  :-------: | 
 |    🟡      |      10     |
