@@ -1,4 +1,4 @@
-# BRACU_CSE423_Snake_Game
+# Snake Game 🐍
 
 [Contributors](#Contributors) <br/>
 [Game Features](#Game-Features)
@@ -13,6 +13,10 @@
 
 ### Main Features :-
 1. Snake feeding on two food types of different scores. <br/>
+| food type | score |
+| :-------: |  :-------: | 
+|    🟡      |      10     |
+|    🟪      |      30     |
 2. Length of snake increases with increase in food intake. <br/>
 3. Head and tail collision ends the game. <br/>
 
@@ -38,4 +42,4 @@
 |    d   |      snake moves downward |
 |    u  |      snake moves upward     |
 |    m  |      light mode activated    |
-|    d  |      dark mode activated    |
+|    n |      dark mode activated    |
