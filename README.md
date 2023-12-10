@@ -14,4 +14,10 @@
 ### Main Features :-
 1. Snake feeding on two food types of different scores. <br/>
 2. Length of snake increases with increase in food intake. <br/>
-3. Head and tail collision ends the game. <br/> 
+3. Head and tail collision ends the game. <br/>
+
+### Other Features :-
+| buttons | features |
+| :-------: |  :-------: | 
+|    ⏸️       |      pauses the game      |
+|    ⏯️      |      plays the game      |
