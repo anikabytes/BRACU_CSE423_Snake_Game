@@ -1,10 +1,5 @@
 # Snake Game 🐍
 
-[Contributors](#Contributors) <br/>
-[Game Features](#Game-Features)
-[Other Features](#Other-Features)
-[Game Scores](#Game-Scores)
-
 # Contributors : 
 
 [Anika Islam](https://github.com/anikabytes) <br/>
