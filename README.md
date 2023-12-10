@@ -2,6 +2,8 @@
 
 [Contributors](#Contributors) <br/>
 [Game Features](#Game-Features)
+[Other Features](#Other-Features)
+[Game Scores](#Game-Scores)
 
 # Contributors : 
 
@@ -9,14 +11,10 @@
 [Sreya Majumder](https://github.com/sreya-majumder) <br/>
 [Aurchi Roy]()
 
-# Game Features : 
+## Game Features : 
 
 ### Main Features :-
 1. Snake feeding on two food types of different scores. <br/>
-| food type | score |
-| :-------: |  :-------: | 
-|    🟡      |      10     |
-|    🟪      |      30     |
 2. Length of snake increases with increase in food intake. <br/>
 3. Head and tail collision ends the game. <br/>
 
@@ -43,3 +41,9 @@
 |    u  |      snake moves upward     |
 |    m  |      light mode activated    |
 |    n |      dark mode activated    |
+
+## Game Scores :-
+| food type | score |
+| :-------: |  :-------: | 
+|    🟡      |      10     |
+|    🟪      |      30     | 
